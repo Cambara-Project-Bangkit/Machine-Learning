@@ -21,7 +21,7 @@ in this project, machine learning create model aksara Bali use CNN model and dep
 
 | Ba       | Nga     | Pa       | Ja     | Ya       | Nya     |
 |--------------|-----------------|--------------|-----------------|--------------|-----------------|
-| <img src="DatasetAksaraWianjana/Ba/ba_0.png" alt="Gambar 1" width="100" height="100"/> | <img src="DatasetAksaraWianjana/Nga/imageds_0.jpg" alt="Gambar 1" width="100"  height="100"/> | <img src="DatasetAksaraWianjana/Pa/imageds_0.jpg" alt="Gambar 1" width="100"  height="100"/> | <img src="DatasetAksaraWianjana/Ja/imageds_0.jpg" alt="Gambar 1" width="100"  height="100"/> | <img src="DatasetAksaraWianjana/Ya/imageds_29.jpg" alt="Gambar 1" width="100"  height="100"/> | <img src="DatasetAksaraWianjana/Nya/imageds_0.jpg" alt="Gambar 1" width="100"  height="100"/> |
+| <img src="DatasetAksaraWianjana/Ba/imageds_6.jpg" alt="Gambar 1" width="100" height="100"/> | <img src="DatasetAksaraWianjana/Nga/imageds_0.jpg" alt="Gambar 1" width="100"  height="100"/> | <img src="DatasetAksaraWianjana/Pa/imageds_0.jpg" alt="Gambar 1" width="100"  height="100"/> | <img src="DatasetAksaraWianjana/Ja/imageds_0.jpg" alt="Gambar 1" width="100"  height="100"/> | <img src="DatasetAksaraWianjana/Ya/imageds_29.jpg" alt="Gambar 1" width="100"  height="100"/> | <img src="DatasetAksaraWianjana/Nya/imageds_0.jpg" alt="Gambar 1" width="100"  height="100"/> |
 
 ## Contributors
 1. M298BSY0034 – Putu Gio Satria Adinata – Universitas Pendidikan Ganesha
