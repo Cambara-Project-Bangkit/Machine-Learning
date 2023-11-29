@@ -1,4 +1,4 @@
-# Machine Learning for Cambara
+# Machine Learning for Cambara app
 in this project, machine learning create model aksara Bali use CNN model and deploy model to tflite
 
 ## Library
