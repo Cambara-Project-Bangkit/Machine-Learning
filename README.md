@@ -1,5 +1,5 @@
 # Machine Learning for Cambara
-in this project, machine learning create model aksara Bali use CNN model
+The Cambara application uses the application of Machine Learning to classify Aksara Bali images, using the Convolutional Neural Network (CNN) model.
 
 ## Library
 - Numpy
