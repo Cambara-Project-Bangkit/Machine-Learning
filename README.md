@@ -1,14 +1,15 @@
 # Machine Learning for Cambara
-in this project, machine learning create model aksara Bali use CNN model and deploy model to tflite
+in this project, machine learning create model aksara Bali use CNN model
 
 ## Library
 - Numpy
 - Tensorflow
-- Tensorflow Lite
-- CV2
+- Cv2
 - Keras
 - Os
 - Matplotlib
+- Shutil
+- Sklearn
 
 ## Example Dataset
 | Ha       | Na     | Ca       | Ra     | Ka       | Da     |
